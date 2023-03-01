@@ -1,0 +1,140 @@
+/* .container {
+    margin: 5px;
+}
+.table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+.table th,
+.table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+
+.table tbody + tbody {
+    border-top: 2px solid #dee2e6;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+.search {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.search:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+} */
+/* Set background color and font family for the entire page */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+/* Default styles for all screen sizes */
+body {
+  background-color: #f8f9fa;
+  font-family: 'Nunito Sans', sans-serif;
+  text-transform: capitalize;
+}
+
+/* Style the search input box */
+.search {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-left: 200px;
+}
+
+/* Style the table */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  width: 80%;
+  margin-left: 200px;
+}
+
+/* Style the table headers */
+.table thead {
+  background-color: #dbe2eb;
+  color: #000000;
+}
+
+/* Style the table cells */
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+/* Style the table rows */
+.table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Style the table row hover effect */
+.table tbody tr:hover {
+  background-color: #ddd;
+  cursor: pointer;
+}
+
+/* Style the submit button */
+.btn {
+  background-color: #dde5ee;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Style the submit button hover effect */
+.btn:hover {
+  background-color: #0069d9;
+}
+
+/* Media query for smaller screens */
+@media only screen and (max-width: 768px) {
+  .search {
+    width: 100%;
+    margin: 8px 0;
+    margin-left: 0;
+  }
+  
+  .table {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
+  

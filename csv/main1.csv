@@ -1,0 +1,943 @@
+﻿Enrollment,Student,Dept,House
+22AI23,Patel Vatsal Vipulkumar,AI,Bhagat Singh House
+22AI37,Patel Vyom Girishkumar,AI,Bhagat Singh House
+22AI15,Bhumika Dadlani,AI,Bhagat Singh House
+22AI17,Mistry Tarang,AI,Bhagat Singh House
+22AI11,Parmar Meet Vinodbhai,AI,Bhagat Singh House
+22AI05,Patel Isha Harishbhai,AI,Bhagat Singh House
+22AI44,Narola Dev Sureshbhai,AI,Bhagat Singh House
+22AI48,Savaliya Akshar Kiranbhai,AI,Bhagat Singh House
+22AI49,Ayush Bhagat,AI,Bhagat Singh House
+22AI64,Rajpurohit Vashisht Sjjansingh,AI,Bhagat Singh House
+22AI69,Chanchalani Vivek Vinodbhai,AI,Bhagat Singh House
+22AI08,Gidwani Ishu Kishanchand,AI,Bhagat Singh House
+22AI04,Patel Pratikkumar Janakbhai,AI,Bhagat Singh House
+22AI32,Sakariya Harsh Ashokbhai,AI,Bhagat Singh House
+22AI55,Vhora Huma Mohammad Sajid,AI,Bhagat Singh House
+22AI60,Govani Drashti Maheshbhai,AI,Bhagat Singh House
+22CE42,Shantanu Siddharth Rohilla,COMP,Bhagat Singh House
+22CE17,Patel Mahek Manishkumar,COMP,Bhagat Singh House
+22CE33,Garv Sachin Patel,COMP,Bhagat Singh House
+22CE48,Nikhil Kumawat,COMP,Bhagat Singh House
+22CE87,Gondaliya Harshal Dineshbhai,COMP,Bhagat Singh House
+22CE83,Agrawal Harshit Rajeev,COMP,Bhagat Singh House
+22CE90,Ghadiali Taha Mustali,COMP,Bhagat Singh House
+22CE92,Sequeira Nevil Jerome,COMP,Bhagat Singh House
+22CE95,Vidja Aryankumar Maheshbhai,COMP,Bhagat Singh House
+22CE99,Chaudhri Tirth Mahendrakumar,COMP,Bhagat Singh House
+22CE101,Shukla Shrey Vimalkumar,COMP,Bhagat Singh House
+22CE111,Tandel Rishabh Jigneshkumar,COMP,Bhagat Singh House
+22CE26,Shah Prasham Alpeshkumar,COMP,Bhagat Singh House
+22CE38,Khirsariya Divam Mahendrabhai,COMP,Bhagat Singh House
+22CE01,Patel Harsh Umeshbhai,COMP,Bhagat Singh House
+22CE22,Dalwadi Meet Hiteshkumar,COMP,Bhagat Singh House
+22CE35,Divya Gupta,COMP,Bhagat Singh House
+22CE54,Baria Aashu Kamleshkumar,COMP,Bhagat Singh House
+22CE57,Patel Aditi Vimalbhai,COMP,Bhagat Singh House
+22CE62,Sheth Vishruti Ankitkumar,COMP,Bhagat Singh House
+22CE69,Vansjaliya Shrey Dipakbhai,COMP,Bhagat Singh House
+22CE75,Komal Sharma,COMP,Bhagat Singh House
+22CSD37,Desai Jay Amit,CSD,Bhagat Singh House
+22CSD29,Devrajsinh Deepaksinh Vishan,CSD,Bhagat Singh House
+22CSD50,Bakrania Rahul Bipinbhai,CSD,Bhagat Singh House
+22CSD33,Thakkar Meet Prakash,CSD,Bhagat Singh House
+22CSD02,Visha Mistry,CSD,Bhagat Singh House
+22CSD36,Patel Krishna Hiteshkumar,CSD,Bhagat Singh House
+22CSD72,Trambadiya Krishna Mukeshbhai,CSD,Bhagat Singh House
+22CSD07,Dalal Het Jineshbhai,CSD,Bhagat Singh House
+22CSD14,Patel Jeet Kalpeshbhai,CSD,Bhagat Singh House
+22CSD41,Patel Kush Narendrakumar,CSD,Bhagat Singh House
+22CSD10,Vala Nirmalkumar Haribhai,CSD,Bhagat Singh House
+22CSD44,Vaghela Deep Vireshbhai,CSD,Bhagat Singh House
+22CSD64,Patel Zeel Maheshkumar,CSD,Bhagat Singh House
+22DT08,Rajput Dipensinh Govindsinh,DT,Bhagat Singh House
+22DT07,Patel Vishva Kiritbhai,DT,Bhagat Singh House
+22EE02,Rishabh Bhupendra Saharkar,EE,Bhagat Singh House
+22FT04,Harsoliya Mohmed Shahil Shakilahmed,FPT,Bhagat Singh House
+22FT34,Patel Riddhi Sharad,FPT,Bhagat Singh House
+22FT31,Sangani Priyank Pareshbhai,FPT,Bhagat Singh House
+22FT39,Sigh Rohitraj Sanjaybhai,FPT,Bhagat Singh House
+22FT26,Gadre Swarada Dhananjay,FPT,Bhagat Singh House
+22FT20,Falguni Bhatnagar,FPT,Bhagat Singh House
+22FT08,G. Sakthisri Bharathi,FPT,Bhagat Singh House
+22FT32,Solanki Rudra Sanjaysinh,FPT,Bhagat Singh House
+22FT43,Patel Het Hiteshbhai,FPT,Bhagat Singh House
+22FT54,Kalawadiya Mayank Atul,FPT,Bhagat Singh House
+22FT01,Desai Smitkumar Maheshkumar,FPT,Bhagat Singh House
+22FT48,Tailor Riya Prakashchandra,FPT,Bhagat Singh House
+22IT051,Patel Omkumar Sandipbhai,IT,Bhagat Singh House
+22IT063,Soham Ketankumar Patel,IT,Bhagat Singh House
+22IT039,Dudhat Aryan Rajeshbhai,IT,Bhagat Singh House
+22IT092,Patel Nisargkumar Jagdishkumar,IT,Bhagat Singh House
+22IT067,Patel Deep Narendrabhai,IT,Bhagat Singh House
+22IT073,Meet Dharmeshkumar Bhagvakar,IT,Bhagat Singh House
+22IT077,Mendpara Kushal Pravinbhai,IT,Bhagat Singh House
+22IT065,Mevada Dhanvi Satishkumar,IT,Bhagat Singh House
+22IT113,Patel Dhruvkumar Girishkumar,IT,Bhagat Singh House
+22IT125,Patel Dev Rajeshbhai,IT,Bhagat Singh House
+22IT171,Sargam Kanubhai Desai,IT,Bhagat Singh House
+22IT177,Khakkhar Priyanshu Rameshbhai,IT,Bhagat Singh House
+22IT187,Bhut Bansi Hiteshbhai,IT,Bhagat Singh House
+22IT193,Rakshit Anilbhai Sojitra,IT,Bhagat Singh House
+22IT200,Bharodiya Dharam Mehulkumar,IT,Bhagat Singh House
+22IT201,Savani Kirtan Gautambhai,IT,Bhagat Singh House
+22IT204,Dalwadi Deep Jayeshkumar,IT,Bhagat Singh House
+22IT211,Thacker Bhoomi Rameshbhai,IT,Bhagat Singh House
+22IT215,Pandya Riddhi Hemang,IT,Bhagat Singh House
+22IT153,Rank Vashvi Bharatbhai,IT,Bhagat Singh House
+22IT223,Vyas Dhruvi Rameshkumar,IT,Bhagat Singh House
+22IT221,Gusai Dhruvgiri Bharatgiri,IT,Bhagat Singh House
+22IT115,Dobariya Ravinkumar Prafulbhai,IT,Bhagat Singh House
+22IT006,Dalal Dev Binitbhai,IT,Bhagat Singh House
+22IT058,Adroja Hit Kiritbhai,IT,Bhagat Singh House
+22IT059,Harshal Dalia,IT,Bhagat Singh House
+22IT033,Shah Kush Rajeshkumar,IT,Bhagat Singh House
+22IT036,Shah Dev Nischal,IT,Bhagat Singh House
+22IT102,Harsh Mistry,IT,Bhagat Singh House
+22IT007,Parmar Meetkumar Rajeshkumar,IT,Bhagat Singh House
+22IT098,Bambharoliya Mohit Ghanshyambhai,IT,Bhagat Singh House
+22IT118,Sanjay Kumar Sharma,IT,Bhagat Singh House
+22IT129,Savaliya Ishan Bhaveshbhai,IT,Bhagat Singh House
+22IT141,Mangaroliya Dhruvi Rajeshbhai,IT,Bhagat Singh House
+22IT143,Patel Pruthvi Rajeshkumar,IT,Bhagat Singh House
+22IT147,Chhuchhar Ankit Virabhai,IT,Bhagat Singh House
+22IT155,Ratanpara Renil Rajeshbhai,IT,Bhagat Singh House
+22IT162,Harsh Dhansukhlal Tandel,IT,Bhagat Singh House
+22IT170,Patel Kaushal Kalpeshkumar,IT,Bhagat Singh House
+22IT188,Patel Dhruvin Jagdishbhai,IT,Bhagat Singh House
+22ME04,Sharma Abhishek Kabindrakumar,ME,Bhagat Singh House
+22AI501,Patel Kruti Natvarbhai,AI,Bhagat Singh House
+22RE501,Bambhaniya Anand Mavjibhai,RE,Bhagat Singh House
+21AE005,Krish Yashwantbhai Vaghela,AE,Bhagat Singh House
+21AE002,Shobhit E Bobin,AE,Bhagat Singh House
+21AI060,Ayush Raman,AI,Bhagat Singh House
+21AI071,Shreyaskar Deep Amit,AI,Bhagat Singh House
+21AI018,Samarth Hemantkumar Patel,AI,Bhagat Singh House
+21AI055,Jagani dhruvi,AI,Bhagat Singh House
+21AI020,Patel Dipesh Prakashkumar,AI,Bhagat Singh House
+21AI016,Patel Harsh Niralkumar,AI,Bhagat Singh House
+21AI058,Patel Yash Jayprakash,AI,Bhagat Singh House
+21AI068,Dhruval Chauhan,AI,Bhagat Singh House
+21AI057,Korat Manal Mathurbhai,AI,Bhagat Singh House
+21AI029,Suthar Meet Rajnikant,AI,Bhagat Singh House
+21AI025,Patil Kishan,AI,Bhagat Singh House
+21AI075,Patel Tirthkumar Chandrakant,AI,Bhagat Singh House
+21AI026,Shweta Shailendra Yadav,AI,Bhagat Singh House
+21AI014,Shah Manav Chirag,AI,Bhagat Singh House
+21AI077,Yash Ramapati Mishra,AI,Bhagat Singh House
+21AI031,Patel Shiv Jigneshkumar,AI,Bhagat Singh House
+21AI064,Shah Dhairya Chetan,AI,Bhagat Singh House
+21CE009,Vasaiya Jaiminkumar Manharbhai,CE,Bhagat Singh House
+21CE008,Sonia Devi,CE,Bhagat Singh House
+21CP089,Ghedia Harsh Dilip,CP,Bhagat Singh House
+21CP068,Shiven Rajendrabhai Patel,CP,Bhagat Singh House
+21CP088,Dave Chaitanya Malhar,CP,Bhagat Singh House
+21CP094,Heppin Anubhai Kukadiya,CP,Bhagat Singh House
+21CP085,Vorpingwala Parthiv Rajnikant,CP,Bhagat Singh House
+21CP098,GANDHI MANN VIKASKUMAR,CP,Bhagat Singh House
+21CP083,Badreshiya Darshit Rakeshbhai,CP,Bhagat Singh House
+21CP086,Tandel Harsh Ishwarbhai,CP,Bhagat Singh House
+21CP081,Darji Tisha Chetankumar,CP,Bhagat Singh House
+21CP087,Kushal Sureshbhai Lad,CP,Bhagat Singh House
+21CP024,Dhruv Hiteshbhai Patel,CP,Bhagat Singh House
+21IT006,Patel Dhruv Alpeshbhai,CP,Bhagat Singh House
+21CP014,Shah Manthankumar Umeshbhai,CP,Bhagat Singh House
+21CP017,patil vanshika sharadkumar,CP,Bhagat Singh House
+21CP016,Patel Aaskaben Dharmeshbhai,CP,Bhagat Singh House
+21CP070,Joshi  Urvish Divyangbhai,CP,Bhagat Singh House
+21CP069,Sudhir Lalotra,CP,Bhagat Singh House
+21CP077,Ambika Sharma,CP,Bhagat Singh House
+21CP071,Gaurav Singh,CP,Bhagat Singh House
+21CP097,MADHU BALA,CP,Bhagat Singh House
+21CP067,Udit Spolia,CP,Bhagat Singh House
+21CSD027,Shah Archi Sandipbhai,CSD,Bhagat Singh House
+21CSD074,MALEK NAKIBAHMED,CSD,Bhagat Singh House
+21CSD076,Sindhisama Nihar Ahemad Ismail,CSD,Bhagat Singh House
+21CSD079,Sindhva Krupal Kamleshbhai,CSD,Bhagat Singh House
+21CSD064,Desai Uchit Ujjaval,CSD,Bhagat Singh House
+21CSD052,Shah Haya Nimeshkumar,CSD,Bhagat Singh House
+21CSD075,Sitapara Dakshkumar Sanjaybhai,CSD,Bhagat Singh House
+21CSD054,Pratham Hemantkumar Surti,CSD,Bhagat Singh House
+21CSD060,Dhola khusal M,CSD,Bhagat Singh House
+21CSD072,Patel Jinalben Vinodbhai,CSD,Bhagat Singh House
+21CSD059,Patel Dhrupaben Bhumiraj,CSD,Bhagat Singh House
+21CSD070,Suthar Mukesh Hanumanram,CSD,Bhagat Singh House
+21CSD057,Nakum Chaitanyakumar Punjabhai,CSD,Bhagat Singh House
+21CSD011,Choksi Dhwanit Hardikkumar,CSD,Bhagat Singh House
+21CSD073,Fanasiya Anshesh Babubhai,CSD,Bhagat Singh House
+21CSD071,Patel Bhavya Jayeshbhai,CSD,Bhagat Singh House
+21EC010,Chakraborty Swapnanil Anupkumar,EC,Bhagat Singh House
+21EC008,Dhobi Meghna Vipulkumar,EC,Bhagat Singh House
+21EC005,Shah Dhiral Mukeshkumar,EC,Bhagat Singh House
+21EE006,Dabhi Mauvik Pravinsinh,EE,Bhagat Singh House
+21FT044,Nayee Krish Rakeshkumar,FPT,Bhagat Singh House
+21FT038,Rajput Khushi Kanaiyalal,FPT,Bhagat Singh House
+21FT029,Patel Hitanshi Ashwinkumar,FPT,Bhagat Singh House
+21FT030,Patel Heet Rakeshkumar,FPT,Bhagat Singh House
+21FT007,Ranasiya Mohmedsakib Abdulsamad,FPT,Bhagat Singh House
+21FT031,Patel Shivkumar Jitendrabhai,FPT,Bhagat Singh House
+21FT006,Harsora Divyesh Kiritbhai,FPT,Bhagat Singh House
+21FT012,Tithi Darshan Patel,FPT,Bhagat Singh House
+21FT008,Moghariya Priyansh Rajendrakumar,FPT,Bhagat Singh House
+21FT028,Patel Priya Nareshbhai,FPT,Bhagat Singh House
+21FT041,Surani Anmol Moezbhai,FPT,Bhagat Singh House
+21FT035,Patel Jeel Chetankumar,FPT,Bhagat Singh House
+21FT016,Patel Pritkumar Vishnubhai,FPT,Bhagat Singh House
+21FT036,Parmar Aartiben Ashokbhai,FPT,Bhagat Singh House
+21FT001,Patel Pratikkumar Mineshbhai,FPT,Bhagat Singh House
+21IT153,Sahil Alpeshbhai Bodar,IT,Bhagat Singh House
+21IT175,Manvar Kashyap Manishbhai,IT,Bhagat Singh House
+21IT170,Shirolwala Vrajkumar Tejashkumar,IT,Bhagat Singh House
+21IT163,Bhuva Prince Rajeshbhai,IT,Bhagat Singh House
+21IT176,Parmar Darshan Ashokbhai,IT,Bhagat Singh House
+21IT181,Ghodesariya Yashkumar Prabhudas,IT,Bhagat Singh House
+21IT162,Garasiya Adhirathsinh Karansinh,IT,Bhagat Singh House
+21IT156,Kalathiya Hard Sanjaybhai,IT,Bhagat Singh House
+21IT164,Rawal Nirad Jignesh,IT,Bhagat Singh House
+21T155,Momin Munira Sajidhusen,IT,Bhagat Singh House
+21IT174,Purani Khanjan Bhavinchandra,IT,Bhagat Singh House
+21IT160,Maniya Sahaj Vijaykumar,IT,Bhagat Singh House
+21IT177,Sonadarva Niravkumar Jeevabhai,IT,Bhagat Singh House
+21IT165,Vekariya Jay Dipakkumar,IT,Bhagat Singh House
+21IT161,Patel Krina Piyushbai,IT,Bhagat Singh House
+21IT167,Maheswari Parth Prembhai,IT,Bhagat Singh House
+21IT028,Nirmal R Shah (NRI),IT,Bhagat Singh House
+21IT048,Dhumale Jay Himanshu,IT,Bhagat Singh House
+21IT123,Rutvi Harshadkumar Shah (NRI),IT,Bhagat Singh House
+21IT159,Gohil Rudra Manishbhai,IT,Bhagat Singh House
+21IT180,Devkumar Shaileshbhai Chauhan,IT,Bhagat Singh House
+21IT185,PATEL JAYKUMAR VIPULBHAI,IT,Bhagat Singh House
+21IT032,Sorathia Purvang Pareshbhai (NRI),IT,Bhagat Singh House
+21IT183,Tilva Aditya Jagdishbhai,IT,Bhagat Singh House
+21IT035,Barot Omkumar Divyeshbhai,IT,Bhagat Singh House
+21IT034,Sonagara Keyur Parsotambhai (NRI),IT,Bhagat Singh House
+21IT184,SOLANKI KEVAL HEMENDRA,IT,Bhagat Singh House
+21IT182,Solanki Ujjaval Chandrakantbhai,IT,Bhagat Singh House
+21IT036,Patel Janvi Bhavikkumar,IT,Bhagat Singh House
+21IT046,Deep Nitinbhai Mandani,IT,Bhagat Singh House
+21IT045,Meet Rajubhai Mandani,IT,Bhagat Singh House
+21IT063,Patel Shrey Pragneshkumar,IT,Bhagat Singh House
+21IT029,Patel Dhyey Arunbhai,IT,Bhagat Singh House
+21IT040,Patel Kanan Prashantkumar,IT,Bhagat Singh House
+21IT055,Kikani Nandish Darshankumar,IT,Bhagat Singh House
+21IT103,Manan Sanjaykumar Patel,IT,Bhagat Singh House
+21IT136,Madhvani Parth Umesh,IT,Bhagat Singh House
+21IT172,Vedant Sargara,IT,Bhagat Singh House
+21ME008,Rathod Shoryaman Sinh Jitendra Pal Sinh,ME,Bhagat Singh House
+21ME003,Sharma Dhiraj Naresh,ME,Bhagat Singh House
+21ME012,Saiyad Saeedadib Safiyuddin,ME,Bhagat Singh House
+21ME016,Joshi Tej Jigneshkumar,ME,Bhagat Singh House
+21RE203,Panseriya Kaushik Rohitbhai,RE,Bhagat Singh House
+21AI201,Anjali Anilbhai Suthar,AI,Bhagat Singh House
+21RE204,SOLANKI KAUSHIKKUMAR HARDAS,RE,Bhagat Singh House
+21FT201,ARPITBHAI RAJENDRABHAI BADANI,FPT,Bhagat Singh House
+21FT202,SIRODARIYA FORAM DHANSUKH,FPT,Bhagat Singh House
+21CP013,Panchotiya Shyam Manishbhai,CP,Bhagat Singh House
+21CE309,Aarti Gadher,Civil,Bhagat Singh House
+22AE01,Chauhan Divyeshkumar Ranvirsinh,AE,Sardar Patel House
+22AI14,Patel Arav Brijeshkumar,AI,Sardar Patel House
+22AI18,Harikrushna  Sakhiya,AI,Sardar Patel House
+22AI25,Vyom Yogeshkumar Desai,AI,Sardar Patel House
+22AI12,Patel Ayush Bhaveshkumar,AI,Sardar Patel House
+22AI21,Yashrajsinh Parmar,AI,Sardar Patel House
+22AI07,Dhruv Milankumar Kapatel,AI,Sardar Patel House
+22AI31,Marvaniya Tweency Amitkumar,AI,Sardar Patel House
+22AI46,Varun Chavda,AI,Sardar Patel House
+22AI53,Chirayu Soni,AI,Sardar Patel House
+22AI68,Maitreya Sapariya,AI,Sardar Patel House
+22AI74,Shoury Pandya,AI,Sardar Patel House
+22AI02,Gami Yash Mahendrakumar,AI,Sardar Patel House
+22AI29,Jinay Ashish Shah,AI,Sardar Patel House
+22AI54,Kapatel Dhvaniben Hemantkumar,AI,Sardar Patel House
+22AI58,Patel Rushi Jitendrakumar,AI,Sardar Patel House
+22AI62,Tanishkumar Bhavin Patel,AI,Sardar Patel House
+22CE18,Muskan Nagrani,COMP,Sardar Patel House
+22CE28,Malaviya Dhwani Rajeshkumar,COMP,Sardar Patel House
+22CE39,Kanani Kevin Sureshbhai,COMP,Sardar Patel House
+22CE49,Swayam Mehulkumar Patel,COMP,Sardar Patel House
+22CE89,Parth Kantilal Bhimani,COMP,Sardar Patel House
+22CE86,Shah Jay Vipulkumar,COMP,Sardar Patel House
+22CE94,Monani Daksh Shaileshkumar,COMP,Sardar Patel House
+22CE105,Bhatt Yatri Rajesh,COMP,Sardar Patel House
+22CE97,Patel Shivkumar ,COMP,Sardar Patel House
+22CE103,Prajapati Shubhamkumar Natwarlal,COMP,Sardar Patel House
+22CE109,Shah Vidhi Nilaykumar,COMP,Sardar Patel House
+22CE29,Shah Vrund Snehalkumar,COMP,Sardar Patel House
+22CE16,Pratik Sankar Konduskar,COMP,Sardar Patel House
+22CE09,Padsumbiya Vishwaskumar Nalinbhai,COMP,Sardar Patel House
+22CE08,Patel Dhara Vijaykumar,COMP,Sardar Patel House
+22CE30,Parmar Vishal Jagdishbhai,COMP,Sardar Patel House
+22CE52,Dalwadi Guruprasad Vijaybhai,COMP,Sardar Patel House
+22CE56,Pratosh Anupbhai Shihora,COMP,Sardar Patel House
+22CE59,Parmar Karm Vikrambhai,COMP,Sardar Patel House
+22CE67,Parmar Dhruv Dilipkumar,COMP,Sardar Patel House
+22CE72,Amisha Kumari,COMP,Sardar Patel House
+22CSD31,Gondhiya Vedanshiben Bhaveshkumar,CSD,Sardar Patel House
+22CSD53,Divyakumar S Patel,CSD,Sardar Patel House
+22CSD34,Rohit Raj,CSD,Sardar Patel House
+22CSD46,Patel Subham Hasmukhbhai,CSD,Sardar Patel House
+22CSD22,Khant Dax Bhaveshbhai,CSD,Sardar Patel House
+22CSD03,Soni Vivek,CSD,Sardar Patel House
+22CSD59,Patel Vedanshiben Dineshbhai,CSD,Sardar Patel House
+22CSD74,Girase Dinal Sanjeevsing,CSD,Sardar Patel House
+22CSD21,Chovatiya Jeenal Harishbhai,CSD,Sardar Patel House
+22CSD11,Mohammed Sahal Shaikh,CSD,Sardar Patel House
+22CSD01,Neel Jatinbhai Thakkar,CSD,Sardar Patel House
+22CSD18,Patel Ayushiben Ranjitbhai,CSD,Sardar Patel House
+22CSD58,Arora Honey Rinkesh,CSD,Sardar Patel House
+22DT06,Patel Param Bharatbhai,DT,Sardar Patel House
+22DT02,Prajapati Krishkumar Hiteshbhai,DT,Sardar Patel House
+22EC01,Parmar Anushka Rajendra,EC,Sardar Patel House
+22FT30,Patel Jeelkumar Shaileshbhai,FPT,Sardar Patel House
+22FT07,Rathva Apeksha Sureshbhai,FPT,Sardar Patel House
+22FT11,Soni Krishna Mukeshkumar,FPT,Sardar Patel House
+22FT18,Sevak Shiv Vijaykumar,FPT,Sardar Patel House
+22FT35,Pal Natasha Rajendra,FPT,Sardar Patel House
+22FT05,Jimil Chirag Shah,FPT,Sardar Patel House
+22FT36,Pingal Yash Nandu,FPT,Sardar Patel House
+22FT25,Purva D Bhatt,FPT,Sardar Patel House
+22FT37,Chavan Yashodeep Rajaram,FPT,Sardar Patel House
+22FT46,Harsora Krunal Jaysukhbhai,FPT,Sardar Patel House
+22FT03,Sayonee Patel,FPT,Sardar Patel House
+22FT10,Patel Jiya Priteshkumar,FPT,Sardar Patel House
+22IT055,Patel Harsh Arunbhai,IT,Sardar Patel House
+22IT075,Patel Pragunkumar Dixitkumar,IT,Sardar Patel House
+22IT048,Reuben Thomas John,IT,Sardar Patel House
+22IT091,Parikh Pratham Rakeshkumar,IT,Sardar Patel House
+22IT043,Pandya Maitri Sunilkumar,IT,Sardar Patel House
+22IT079,Sabhaya Hemanshukumar B,IT,Sardar Patel House
+22IT084,Prajapati Dhruvkumar Hasmukhbhai,IT,Sardar Patel House
+22IT095,Kalal Jimishaben Hiteshbhai,IT,Sardar Patel House
+22IT094,Vansh Khushalani (Nri),IT,Sardar Patel House
+22IT116,Panchasara Dhruv Sureshbhai,IT,Sardar Patel House
+22IT142,Shlok Nileshkumar Patel,IT,Sardar Patel House
+22IT181,Mann Pankajkumar Badreshiya,IT,Sardar Patel House
+22IT185,Pushprajsinh Jadeja,IT,Sardar Patel House
+22IT191,Kothari Poojan Jigneshkumar,IT,Sardar Patel House
+22IT198,Navadiya Yomin Dineshbhai,IT,Sardar Patel House
+22IT196,Harsh Kakadiya,IT,Sardar Patel House
+22IT130,Patel Het Subhash,IT,Sardar Patel House
+22IT206,Harsh Mangukia,IT,Sardar Patel House
+22IT209,Patel Krutarth Ashokbhai,IT,Sardar Patel House
+22IT216,Savani Dhaval Hareshbhai,IT,Sardar Patel House
+22IT213,Mariya Vasanwala,IT,Sardar Patel House
+22IT222,Prajapat Dinal Bhupendra,IT,Sardar Patel House
+22IT004,Jariwala Hitanshu Pankaj,IT,Sardar Patel House
+22IT070,Shah Rushabh Jigneshbhai,IT,Sardar Patel House
+22IT027,Pandya Jay Parikshit,IT,Sardar Patel House
+22IT057,Rangpadiya Manav Niteshbhai,IT,Sardar Patel House
+22IT022,Kukadiya Krish Sanjaybhai,IT,Sardar Patel House
+22IT015,Patel Preykumar Chandrakantbhai,IT,Sardar Patel House
+22IT013,Dave Rakshit Ghanshyam,IT,Sardar Patel House
+22IT003,Jethava Brijesh Ashokbhai,IT,Sardar Patel House
+22IT019,Ribadiya Jaykumar Vinodbhai,IT,Sardar Patel House
+22IT121,Prajapati Jinay Hirenkumar,IT,Sardar Patel House
+22IT136,Vachhani Keaval Rameshbhai,IT,Sardar Patel House
+22IT134,Patel Vanshkumar Rameshbhai,IT,Sardar Patel House
+22IT139,Patel Diya Jayeshbhai,IT,Sardar Patel House
+22IT137,Tank Kaushalbhai Rajeshbhai,IT,Sardar Patel House
+22IT156,Jadav Vishalbhai Rameshbhai,IT,Sardar Patel House
+22IT160,Mahyavanshi Parth Anilbhai,IT,Sardar Patel House
+22IT164,Nakum Smit Vimalbhai,IT,Sardar Patel House
+22IT042,Shah Shrey Jigneshkumar,IT,Sardar Patel House
+22ME02,Pandya Divyansh Viralkumar,ME,Sardar Patel House
+22ME08,Patel Jeet Jigneshbhai,ME,Sardar Patel House
+22AI503,Patel Maitriben Kiranbhai,AI,Sardar Patel House
+21AE008,Vohra Husen Zakirbhai,AE,Sardar Patel House
+21AE007,Shah Vandit Jayeshbhai,AE,Sardar Patel House
+21AE012,Sorathiya Preet Kanaiyalal,AE,Sardar Patel House
+21AI001,Thakkar Vidhiben Kiritbhai,AI,Sardar Patel House
+21AI010,Athrv Piyushkumar Thakar,AI,Sardar Patel House
+21AI028,Patel Jeet Vasudev,AI,Sardar Patel House
+21AI027,Patel Shrey Pinakinbhai,AI,Sardar Patel House
+21AI024,Kalathiya Kunj Vijaybhai,AI,Sardar Patel House
+21AI072,Shivangee Rajput,AI,Sardar Patel House
+21AI062,Parmar Kirtiben ,AI,Sardar Patel House
+21AI070,Patel Smit Ketankumar,AI,Sardar Patel House
+21AI073,Sapkale Om Yugesh,AI,Sardar Patel House
+21AI074,Shah Raj Hitesh,AI,Sardar Patel House
+21AI051,Patel Aryan Amrutlal,AI,Sardar Patel House
+21AI53,Joshi Vishw Prakash,AI,Sardar Patel House
+21AI017,VISHESH UMANG DHAM,AI,Sardar Patel House
+21AI065,Joshi Parth Rameshkumar,AI,Sardar Patel House
+21AI069,Vrushti Subhashchandra Patel,AI,Sardar Patel House
+21AI066,Dudhtra Vandit Dineshbhai,AI,Sardar Patel House
+21AI054,Chauhan Tarun Bhaveshbhai,AI,Sardar Patel House
+21CE005,Patel Ayushkumar Mahendrabhai,CE,Sardar Patel House
+21CE002,Parthkumar Amishkumar Bhavsar,CE,Sardar Patel House
+21CE007,Anjali Devi,CE,Sardar Patel House
+21CP066,Jatinbhai Kantariya,CP,Sardar Patel House
+21CP047,Odedara Ranjeet Bhimabhai,CP,Sardar Patel House
+21CP076,Bhanushali Parth Mahesh,CP,Sardar Patel House
+21CP010,Chauhan Harsh Devubhai,CP,Sardar Patel House
+21CP060,Katrodiya Rushi Bharatbhai,CP,Sardar Patel House
+21CP035,Mistry Vraj Dipakbhai,CP,Sardar Patel House
+21CP053,Vaghani Dakshil Devchandbhai,CP,Sardar Patel House
+21CP056,Savaliya Hardik Bhikhubhai,CP,Sardar Patel House
+21CP021,Shah Jeet Kriteshkumar,CP,Sardar Patel House
+21CP029,Thakkar Pratham Rajeshkumar,CP,Sardar Patel House
+21CP027,Param V Patel,CP,Sardar Patel House
+21CP096,Rathod Prerna Kirankumar,CP,Sardar Patel House
+21CP099,Golakiya Raj Vinubhai,CP,Sardar Patel House
+21CP095,Sojeetra Jeel Pravinbhai,CP,Sardar Patel House
+21CP091,Domadiya Harsh Ghanshyambhai,CP,Sardar Patel House
+21CP080,Patel Aarsh Jugalkishor,CP,Sardar Patel House
+21CP078,Gadhiya Shubham Jagdishbhai,CP,Sardar Patel House
+21CP100,Diyora Neel Jagdishbhai,CP,Sardar Patel House
+21CP090,Mangukiya Kenil Rameshbhai,CP,Sardar Patel House
+21CP093,Sutariya Ayush Sureshbhai,CP,Sardar Patel House
+21CSD030,Tandel Hani Rajeshbhai,CSD,Sardar Patel House
+21CSD045,Sisodiya Gaurang Dilipsinh,CSD,Sardar Patel House
+21CSD077,Ahir Surbhi,CSD,Sardar Patel House
+21CSD023,Bapodra Parth Bhanubhai,CSD,Sardar Patel House
+21CSD005,Kamaliya Dev R,CSD,Sardar Patel House
+21CSD038,Bodar Viren Ashokbhai,CSD,Sardar Patel House
+21CSD050,Prajapati Ishwarbhai Rameshbhai,CSD,Sardar Patel House
+21CSD014,Patel Neer Ghanshyambhai,CSD,Sardar Patel House
+21CSD020,Javia Darshit Arvindbhai,CSD,Sardar Patel House
+21CSD022,Davawala Kavit Vipul,CSD,Sardar Patel House
+21CSD006,Doriwala Jeet Rakesh,CSD,Sardar Patel House
+21CSD061,Saloni Ketankumar Patel,CSD,Sardar Patel House
+21CSD013,Soni Deep Vijaybhai,CSD,Sardar Patel House
+21CSD008,Chauhan Nihar Vikramsinh,CSD,Sardar Patel House
+21CSD068,Darshik Hiteshbhai Hirpara,CSD,Sardar Patel House
+21CSD016,Shah Maanav Dipesh,CSD,Sardar Patel House
+21EC013,Panchal Aditya Mahendrabhai,EC,Sardar Patel House
+21EC006,Dave Jaykrut Dharmendra,EC,Sardar Patel House
+21EC012,Patel Het Rajeshkumar,EC,Sardar Patel House
+21EE003,Makwana Bhavya Vinaykumar,EE,Sardar Patel House
+21EE002,Modhavadiya Ranjit Ranabhai,EE,Sardar Patel House
+21FT052,Kadia Dhruvi Prakashkumar,FPT,Sardar Patel House
+21FT040,Gor Chirayukumar Harshadbhai,FPT,Sardar Patel House
+21FT058,Daksh Pankajkumar Sevak,FPT,Sardar Patel House
+21FT059,Dalwadi Kirtankumar Pareshbhai,FPT,Sardar Patel House
+21FT043,Disha Mistry,FPT,Sardar Patel House
+21FT034,Patel Jaykumar Ashokbhai,FPT,Sardar Patel House
+21FT049,Jarsaniya Vishvas Shirishbhai,FPT,Sardar Patel House
+21FT051,Parmar Rinav Rajnikant,FPT,Sardar Patel House
+21FT011,Patel Deep Mayurkumar,FPT,Sardar Patel House
+21FT056,Zala Abhi Hiteshkumar,FPT,Sardar Patel House
+21FT010,Patel Jaykumar Kalpeshkumar,FPT,Sardar Patel House
+21FT005,Vaghela Sakshi Chetankumar,FPT,Sardar Patel House
+21FT027,Patel Darshankumar Shankarbhai,FPT,Sardar Patel House
+21FT009,Sneha Thakkar,FPT,Sardar Patel House
+21FT042,Katara Twinkal Vimalkumar,FPT,Sardar Patel House
+21FT003,Patel Ronitkumar Rajeshbhai,FPT,Sardar Patel House
+21IT022,Nandakar Priyanshu Mukeshkumar,IT,Sardar Patel House
+21IT093,Mehta Aeshakumari Hirenkumar,IT,Sardar Patel House
+21IT061,Katariya Viral Ranabhai,IT,Sardar Patel House
+21IT145,Vekariya Deep Vijaybhai,IT,Sardar Patel House
+21IT018,Raiyani Vivek Pareshkumar,IT,Sardar Patel House
+21IT069,Maurya Hemant Suryaprakash,IT,Sardar Patel House
+21IT020,Savaliya Krupal Mukeshbhai,IT,Sardar Patel House
+21IT014,Dabhi Deep Ashvinkumar,IT,Sardar Patel House
+21IT054,Nandasana Mansi Dhirajbhai,IT,Sardar Patel House
+21IT38,Patel Tejkumar Dipakbhai (NRI),IT,Sardar Patel House
+21IT033,Ramani Dishant Parsotambhai (NRI),IT,Sardar Patel House
+21IT179,Pipaliya Nikhil Pravinbhai,IT,Sardar Patel House
+21IT102,Patel Nishilkumar Kamleshbhai,IT,Sardar Patel House
+21IT137,Yadav Darshit Ashokkumar,IT,Sardar Patel House
+21IT124,Dhameliya Meetkumar Jagdishbhai,IT,Sardar Patel House
+21IT140,Vekariya Kevin Nayanbhai,IT,Sardar Patel House
+21IT149,Yadav Nishant Nageshwar,IT,Sardar Patel House
+21IT134,Patel Khushi Shaileshbhai,IT,Sardar Patel House
+21IT109,Shah Purva Dipakbhai,IT,Sardar Patel House
+21IT150,Patel Dia Kiritkumar,IT,Sardar Patel House
+21IT178,Chandwani Dhruv Deepakbhai,IT,Sardar Patel House
+21IT114,Kukadiya Bhumik Rasikbhai,IT,Sardar Patel House
+21IT158,Poojankumar Shah,IT,Sardar Patel House
+21IT168,Dholariya Smit Chaturbhai,IT,Sardar Patel House
+21IT166,Kyada Pavan Rajnikant,IT,Sardar Patel House
+21IT117,Patel Krishna Bharatbhai,IT,Sardar Patel House
+21IT126,Patel Raj Vijaybhai,IT,Sardar Patel House
+21IT151,Patil Jenil Vilasbhai,IT,Sardar Patel House
+21IT122,Dhakecha Harsh Shaileshbhai,IT,Sardar Patel House
+21IT169,Patel Anup Rakeshbhai,IT,Sardar Patel House
+21IT171,Moradiya Savan Bharatbhai,IT,Sardar Patel House
+21IT173,Shah Viraj Pareshbhai,IT,Sardar Patel House
+21IT154,Patel Vruchi Pravinbhai,IT,Sardar Patel House
+21IT127,Bodar Raj Prakashbhai,IT,Sardar Patel House
+21IT152,PANCHAL YAGNIKKUMAR VINODBHAI,IT,Sardar Patel House
+21IT113,Mangukiya Tirth Arvindbhai,IT,Sardar Patel House
+21IT157,Kathiria Abhi,IT,Sardar Patel House
+21ME011,Agrim Srivastava,ME,Sardar Patel House
+21ME005,Yadav Abhay Purushottam Singh,ME,Sardar Patel House
+21ME004,Patel Preet Bhaveshkumar,ME,Sardar Patel House
+21ME009,KHURSHEED AHMAD GOJAR MIR,ME,Sardar Patel House
+21RE202,Singh Vikaskumar S,RE,Sardar Patel House
+21AI203,Patel Janiben Pareshbhai,AI,Sardar Patel House
+21RE208,GANDHI AMIT ASHOKBHAI,RE,Sardar Patel House
+22AI35,Fulwala Vivek Parimal,AI,Mahatma Gandhi House
+22AI06,Patel Prachi Nileshkumar,AI,Mahatma Gandhi House
+22AI09,Jahnvi Rajesh Mistry,AI,Mahatma Gandhi House
+22AI33,Anshika Patel,AI,Mahatma Gandhi House
+22AI10,Mansuri Shahir Riyaz,AI,Mahatma Gandhi House
+22AI16,Vipulsinh G Parmar,AI,Mahatma Gandhi House
+22AI41,Patel Hani Jayeshkumar,AI,Mahatma Gandhi House
+22AI43,Mitali Dangi,AI,Mahatma Gandhi House
+22AI51,Pratikshya Pramod Bhanja,AI,Mahatma Gandhi House
+22AI66,Parmar Anand Bharatbhai,AI,Mahatma Gandhi House
+22AI70,Ghanchi Mohammadkaif Irfanbhai,AI,Mahatma Gandhi House
+22AI01,Adeshara Malav Niravkumar,AI,Mahatma Gandhi House
+22AI22,Aghera Dhruvkumar Dhirajlal,AI,Mahatma Gandhi House
+22AI38,Gohel Heet Bhavinbhai,AI,Mahatma Gandhi House
+22AI57,Rana Dhruvil Maheshkumar,AI,Mahatma Gandhi House
+22AI61,Bhatt Ved Pareshkumar,AI,Mahatma Gandhi House
+22CE12,Karna Patel (Nri),COMP,Mahatma Gandhi House
+22CE74,Patel Ankur Nitinkumar,COMP,Mahatma Gandhi House
+22CE45,Kariya Divyesh Jitendrabhai,COMP,Mahatma Gandhi House
+22CE50,Patel Vasu Devangbhai,COMP,Mahatma Gandhi House
+22CE79,Patel Raj Mayurbhai,COMP,Mahatma Gandhi House
+22CE84,Senjaliya Nensi Arvindbhai,COMP,Mahatma Gandhi House
+22CE91,Patel Milindkumar Sureshkumar,COMP,Mahatma Gandhi House
+22CE100,Chinmay Maheshwari,COMP,Mahatma Gandhi House
+22CE96,Dobariya Jay Dhirubhai,COMP,Mahatma Gandhi House
+22CE108,Yadav Pratiksingh Avadheshsingh,COMP,Mahatma Gandhi House
+22CE106,Jadhav Krutik Rajendrabhai,COMP,Mahatma Gandhi House
+22CE112,Jani Tirth Vipulkumar,COMP,Mahatma Gandhi House
+22CE14,Krisha Malayketu Shah,COMP,Mahatma Gandhi House
+22CE04,Patel Rishi Rajeshkumar,COMP,Mahatma Gandhi House
+22CE03,Padhara Yash Mansukhbhai,COMP,Mahatma Gandhi House
+22CE27,Patel Shaankumar Rajeshbhai,COMP,Mahatma Gandhi House
+22CE37,Rakesh Kumar Verma,COMP,Mahatma Gandhi House
+22CE55,Aditya Patel,COMP,Mahatma Gandhi House
+22CE60,Gresee Dipeshkumar Bhut,COMP,Mahatma Gandhi House
+22CE64,Godhasara Krish Ashokbhai,COMP,Mahatma Gandhi House
+22CE70,Savani Vasu Ramnikbhai,COMP,Mahatma Gandhi House
+22CSD38,Kothari Abbas Shabbirbhai,CSD,Mahatma Gandhi House
+22CSD42,Himank Suthar ,CSD,Mahatma Gandhi House
+22CSD28,Meet Joshi ,CSD,Mahatma Gandhi House
+22CSD20,Kavirajsinh  Solanki,CSD,Mahatma Gandhi House
+22CSD35,Jatin Bhatnagar,CSD,Mahatma Gandhi House
+22CSD32,Sorathiya Nikita Saileshbhai,CSD,Mahatma Gandhi House
+22CSD55,Gujar Tanvi Sunil,CSD,Mahatma Gandhi House
+22CSD73,Movaliya Het Maheshbhai,CSD,Mahatma Gandhi House
+22CSD17,Paun Vineet Sandeepbhai,CSD,Mahatma Gandhi House
+22CSD08,Mirza Mohammadizhanbeg Irfanbeg,CSD,Mahatma Gandhi House
+22CSD49,Abbas Akil,CSD,Mahatma Gandhi House
+22CSD25,Rajput Sahaj Satish,CSD,Mahatma Gandhi House
+22CSD57,Bhoomi Rana,CSD,Mahatma Gandhi House
+22CSD67,Jha Satyam Sushil Suman,CSD,Mahatma Gandhi House
+22DT10,Bhor Suraj Sambhaji,DT,Mahatma Gandhi House
+22DT05,Patel Meghavikumari Ranchhodbhai,DT,Mahatma Gandhi House
+22EE03,Nekha Devi,EE,Mahatma Gandhi House
+22FT22,Kumari Manisha Brajeshkumar,FPT,Mahatma Gandhi House
+22FT16,Parekh Mansiben Ghansyambhai,FPT,Mahatma Gandhi House
+22FT24,Samarth Solanki,FPT,Mahatma Gandhi House
+22FT14,Patel Meet Sanjaykumar,FPT,Mahatma Gandhi House
+22FT15,Suhani Bhavin Patel ,FPT,Mahatma Gandhi House
+22FT19,Mehta Ansh Sapnesh,FPT,Mahatma Gandhi House
+22FT12,Patel Aaditya,FPT,Mahatma Gandhi House
+22FT33,Joshi Rudra Mineshkumar,FPT,Mahatma Gandhi House
+22FT44,Makwana Tanishkumar Jayantibhai,FPT,Mahatma Gandhi House
+22FT53,Bhut Shivam Yogeshbhai,FPT,Mahatma Gandhi House
+22FT13,Patel Krina Yatinbhai,FPT,Mahatma Gandhi House
+22FT52,Lad Aditi Atin,FPT,Mahatma Gandhi House
+22IT054,Patel Prince Samirbhai,IT,Mahatma Gandhi House
+22IT044,Kanjiya Ayush Rameshbhai,IT,Mahatma Gandhi House
+22IT087,Shah Archi Sanketkumar,IT,Mahatma Gandhi House
+22IT068,Shah Zeel Gopalbhai,IT,Mahatma Gandhi House
+22IT105,Vasani Denish Jayeshbhai,IT,Mahatma Gandhi House
+22IT089,Patel Preet Manishkumar,IT,Mahatma Gandhi House
+22IT056,Dhruvi Chintanbhai Shah,IT,Mahatma Gandhi House
+22IT093,Patel Jaykumar Bhaumikbhai,IT,Mahatma Gandhi House
+22IT117,Bhalani Harsh Kiritbhai,IT,Mahatma Gandhi House
+22IT127,Patel Manan Vipulbhai,IT,Mahatma Gandhi House
+22IT184,Dhanani Astha Rajeshbhai`,IT,Mahatma Gandhi House
+22IT182,Baidiyavadara Prajay Govabhai,IT,Mahatma Gandhi House
+22IT189,Patel Aesha Jigarbhai,IT,Mahatma Gandhi House
+22IT199,Dungarani Darshan Ghanshyambhai,IT,Mahatma Gandhi House
+22IT194,Rana Vairagiben Kamleshkumar,IT,Mahatma Gandhi House
+22IT202,Dudhat Daksh Pareshbhai,IT,Mahatma Gandhi House
+22IT205,Gohil Adityakumar Kanaiyalal,IT,Mahatma Gandhi House
+22IT207,Lakhani Parthiv Sanjaybhai,IT,Mahatma Gandhi House
+22IT212,Kendurkar Nisarg Vishram,IT,Mahatma Gandhi House
+22IT217,Sharma Utkarsh Tarun,IT,Mahatma Gandhi House
+22IT220,Harsh Devariya,IT,Mahatma Gandhi House
+22IT224,Karnavat Brijeshkumar Manchharam,IT,Mahatma Gandhi House
+22IT120,Dobariya Kalp Jaysukhbhai,IT,Mahatma Gandhi House
+22IT009,Sodha Mihir Vimalbhai,IT,Mahatma Gandhi House
+22IT029,Gajera Tithi Pravin,IT,Mahatma Gandhi House
+22IT053,Patel Dhruvan Mahendrakumar,IT,Mahatma Gandhi House
+22IT096,Rankaja Prins Ambarambhai,IT,Mahatma Gandhi House
+22IT050,Patel Dhruvkumar Amrutbhai,IT,Mahatma Gandhi House
+22IT001,Italiya Fenil Vallabhbhai,IT,Mahatma Gandhi House
+22IT011,Makwana Dharmikkumar Mahendrabhai,IT,Mahatma Gandhi House
+22IT110,Trambadiya Kushkumar Rakeshbhai,IT,Mahatma Gandhi House
+22IT135,Prajapati Devanshkumar Shaileshbhai,IT,Mahatma Gandhi House
+22IT131,Patel Himaniben Manishbhai,IT,Mahatma Gandhi House
+22IT140,Moradiya Fenil Nareshbhai,IT,Mahatma Gandhi House
+22IT145,Nakum Rushankbhai Ashokbhai,IT,Mahatma Gandhi House
+22IT152,Prajapati Pranav Hasmukhbhai,IT,Mahatma Gandhi House
+22IT157,Jogani Parth Punabhai,IT,Mahatma Gandhi House
+22IT165,Gohil Nayan Jamanbhai,IT,Mahatma Gandhi House
+22IT169,Kalathiya Khushkumar Jitendrabhai,IT,Mahatma Gandhi House
+22IT176,Sonali Saini,IT,Mahatma Gandhi House
+22ME01,Barchhav Dhruv Sanjiv,ME,Mahatma Gandhi House
+22FT501,Jani Aksharvatsal Narendrakumar,FPT,Mahatma Gandhi House
+22FT503,Parmar Dhruv Sureshsinh,FPT,Mahatma Gandhi House
+21AE004,Patel Meet Rakeshkumar,AE,Mahatma Gandhi House
+21AE006,Dhruvin Chandreshbhai Rakhasia,AE,Mahatma Gandhi House
+21AE001,Patel Krish Shaileshbhai,AE,Mahatma Gandhi House
+21AI022,Parekh Kushal Bhaveshkumar,AI,Mahatma Gandhi House
+21AI056,Mangukiya Yash Prakashbhai,AI,Mahatma Gandhi House
+21AI019,Patel Keertan Jigneshkumar,AI,Mahatma Gandhi House
+21AI015,Donga Aryan Girishkumar,AI,Mahatma Gandhi House
+21AI023,Patel Hetvi Dilipbhai,AI,Mahatma Gandhi House
+21AI033,Shah Diya Purveshkumar ,AI,Mahatma Gandhi House
+21AI030,Santoki Meetkumar Ashokbhai,AI,Mahatma Gandhi House
+21AI012,Nakrani Chintan Kiranbhai,AI,Mahatma Gandhi House
+21AI013,Patel Richa Rakeshkumar,AI,Mahatma Gandhi House
+21AI002,Limbani Raj Bharatkumar,AI,Mahatma Gandhi House
+21AI011,Patel Yashvi Mineshkumar,AI,Mahatma Gandhi House
+21AI041,Dhairya Harshvardhan Patel,AI,Mahatma Gandhi House
+21AI046,Javiya Krips Sureshbhai,AI,Mahatma Gandhi House
+21AI032,Chauhan Krish Jignesh,AI,Mahatma Gandhi House
+21AI039,Patel Harshil Miteshbhai,AI,Mahatma Gandhi House
+21AI048,Savaliya kelvi mayurbhai,AI,Mahatma Gandhi House
+21AI007,Vekaria Rushikesh Yogeshkumar,AI,Mahatma Gandhi House
+21CE004,Gabani Girishkumar Manjibhai,CE,Mahatma Gandhi House
+21CE006,Thakor Sanskar Jayantibhai,CE,Mahatma Gandhi House
+21CP063,Malek Nidabanu Mahammadshakil,CP,Mahatma Gandhi House
+21CP062,Viramgama Jaimin Ketanbhai,CP,Mahatma Gandhi House
+21CP061,Patel Het Himanshubhai,CP,Mahatma Gandhi House
+21CP060,Malek Nidabanu Mahammadshakil,CP,Mahatma Gandhi House
+21CP059,Viramgama Jaimin Ketanbhai,CP,Mahatma Gandhi House
+21CP075,Patil Kajal Vishwas,CP,Mahatma Gandhi House
+21CP038,Aditya Dharmendrakumar Sikarvar ,CP,Mahatma Gandhi House
+21CP026,Desai Jay Dhavalkumar,CP,Mahatma Gandhi House
+21CP005,Harshiv Jayesh Patel,CP,Mahatma Gandhi House
+21CP020,Patel Jay Nehalbhai,CP,Mahatma Gandhi House
+21CP007,Shah Jimeet Mayurkumar,CP,Mahatma Gandhi House
+21CP012,Vachhani Vrushti Kiranbhai,CP,Mahatma Gandhi House
+21CP040,Modi Hetvi Dipex,CP,Mahatma Gandhi House
+21CP058,Chauhan Jill Ghanshyambhai,CP,Mahatma Gandhi House
+21CP044,Tilva Abhay Bharatbhai,CP,Mahatma Gandhi House
+21CP059,Chauhan Khushi Vimalbhai,CP,Mahatma Gandhi House
+21CP054,Dishankbhai Dixit,CP,Mahatma Gandhi House
+21CP004,Vaghamshi Vivekbhai Keshubhai,CP,Mahatma Gandhi House
+21CP002,Titiksha Sharma,CP,Mahatma Gandhi House
+21CP003,Parmar Hardikkumar Chhatrasinh,CP,Mahatma Gandhi House
+21CSD026,Patel Kunjkumar Pareshkumar,CSD,Mahatma Gandhi House
+21CSD058,Patel Akshat Rajeshbhai,CSD,Mahatma Gandhi House
+21CSD012,Panchal Harsh Sunilkumar,CSD,Mahatma Gandhi House
+21CSD19,Marathe Aarya Ameya,CSD,Mahatma Gandhi House
+21CSD021,Dwiti Ashok Bajaj,CSD,Mahatma Gandhi House
+21csd017,Vaishnav Uppal Rasikbhai,CSD,Mahatma Gandhi House
+21CSD018,Gajjar Krisha Vipulkumar,CSD,Mahatma Gandhi House
+21CSD003,Mistry Pranav Pankaj,CSD,Mahatma Gandhi House
+21CSD039,Nariya Prit Ashvinbhai,CSD,Mahatma Gandhi House
+21CSD036,Shroff Palak Saurabh,CSD,Mahatma Gandhi House
+21CSD041,Akoliya Akash Rameshbhai,CSD,Mahatma Gandhi House
+21CSD048,Nasit Hardik Jayantibhai,CSD,Mahatma Gandhi House
+21CSD053,Gamdha Kush Mansukhbhai,CSD,Mahatma Gandhi House
+21CSD037,Desai Khushali Kiran,CSD,Mahatma Gandhi House
+21CSD063,Khushi Ramnikbhai Vamja,CSD,Mahatma Gandhi House
+21CSD056,Bariya Darshan Rakeshkumar,CSD,Mahatma Gandhi House
+21CSD069,Soni Aryan Shambhubhai,CSD,Mahatma Gandhi House
+21EC009,Aayushi Rajendrabhai Parmar,EC,Mahatma Gandhi House
+21EC001,Patel Dev Ashwinbhai,EC,Mahatma Gandhi House
+21EE004,Solanki Shrey Bipinkumar,EE,Mahatma Gandhi House
+21EE005,Rana Harshveersinh Vikramsinh,EE,Mahatma Gandhi House
+21FT018,Ravalji Dhruvrajsinh Mukeshkumar,FPT,Mahatma Gandhi House
+21FT014,Vagadiya Shubham Sanjay,FPT,Mahatma Gandhi House
+21FT019,Patel Vraj Yogeshkumar,FPT,Mahatma Gandhi House
+21FT046,Patel Bhargav Bharatkumar,FPT,Mahatma Gandhi House
+21FT015,Patel Vrushtiben Pareshkumar,FPT,Mahatma Gandhi House
+21FT013,Dave Rakshit Ketanbhai,FPT,Mahatma Gandhi House
+21FT020,Patel Anupaben Bhaveshkumar,FPT,Mahatma Gandhi House
+21FT024,Pandya Dhruvi Chetanbhai,FPT,Mahatma Gandhi House
+21FT023,Patel Prachi Jitendrabhai,FPT,Mahatma Gandhi House
+21FT050,Saparia Jyotkumar Vithalbhai,FPT,Mahatma Gandhi House
+21FT021,Nevil Sanjaybhai Bhanderi,FPT,Mahatma Gandhi House
+21FT025,Parmar Camil,FPT,Mahatma Gandhi House
+21FT047,Khatri Lakshay Ashok,FPT,Mahatma Gandhi House
+21FT026,Hoshiyar Salman Taheribhai,FPT,Mahatma Gandhi House
+21FT039,Tarsadiya Ayushiben Vijaysinh,FPT,Mahatma Gandhi House
+21FT002,Bhatt Prachi Dharmeshkumar,FPT,Mahatma Gandhi House
+21IT050,Patel Smit Pareshkumar,IT,Mahatma Gandhi House
+21IT004,Patel Om Yogeshbhai,IT,Mahatma Gandhi House
+21IT012,Desai Shivang Devang,IT,Mahatma Gandhi House
+21IT105,Shah Fenil Divyesh,IT,Mahatma Gandhi House
+21IT096,Chheta Jeel Ghanshyambhai,IT,Mahatma Gandhi House
+21IT121,Tanviben Mitulkumar Patel,IT,Mahatma Gandhi House
+21IT110,Patel Mann Sureshbhai,IT,Mahatma Gandhi House
+21IT146,Kothiya Varshil Maheshbhai,IT,Mahatma Gandhi House
+21IT142,Lakum Darshankumar Hasmukhbhai,IT,Mahatma Gandhi House
+21IT131,Patel Ram Vijaybhai,IT,Mahatma Gandhi House
+21IT120,Hingrajiya Rushi Hematlal,IT,Mahatma Gandhi House
+21IT051,Patel Nityam Bhaskarbhai,IT,Mahatma Gandhi House
+21IT065,Patel Adarsh Amrutlal,IT,Mahatma Gandhi House
+21IT047,Kuchhadia Divyesh Dineshbhai,IT,Mahatma Gandhi House
+21IT132,Chudesara Ayyan Mohammedsalim,IT,Mahatma Gandhi House
+21IT044,Chheta Dev Rajeshbhai,IT,Mahatma Gandhi House
+21IT042,Dhyey Ashishbhai Sutariya,IT,Mahatma Gandhi House
+21IT043,Sangani Jay Jivrajbhai,IT,Mahatma Gandhi House
+21IT073,Rishiraj Parmar,IT,Mahatma Gandhi House
+21IT049,Kothadiya Tej Chandreshbhai,IT,Mahatma Gandhi House
+21IT107,Patel Suhani Kavindra,IT,Mahatma Gandhi House
+21IT011,Talpada Nikunjkumar Manishbhai,IT,Mahatma Gandhi House
+21IT064,Rana Akshar Hemantkumar,IT,Mahatma Gandhi House
+21IT024,Patel Drashti Jayeshkumar,IT,Mahatma Gandhi House
+21IT023,Panchal Maulik Kamleshbhai,IT,Mahatma Gandhi House
+21IT119,Patel Parth Rohitkumar A,IT,Mahatma Gandhi House
+21IT017,Mali Krunal Kamleshbhai,IT,Mahatma Gandhi House
+21IT053,Solanki Vivek Manishbhai,IT,Mahatma Gandhi House
+21IT116,Avadiya Prakarsh Jaysukhbhai,IT,Mahatma Gandhi House
+21IT081,Kharodiya Abidali Hasanali,IT,Mahatma Gandhi House
+21IT002,Gohel Karan Dilipbhai,IT,Mahatma Gandhi House
+21IT108,Gheewala Saurav Ajaykumar,IT,Mahatma Gandhi House
+21IT008,Patel Dipesh Shaileshbhai,IT,Mahatma Gandhi House
+21IT075,Chudasama Dev Babubhai,IT,Mahatma Gandhi House
+21IT100,Fuletra Prushti Kiritbhai,IT,Mahatma Gandhi House
+21IT016,Abdul Kaiyum Yakub Mastan,IT,Mahatma Gandhi House
+21IT058,Vaja Preet Sunilbhai,IT,Mahatma Gandhi House
+21IT133,KARTIK BHAGAT,IT,Mahatma Gandhi House
+21ME014,Makwana Aaryan Chandrakant,ME,Mahatma Gandhi House
+21ME006,Patel Vasu Niranjan,ME,Mahatma Gandhi House
+21ME015,Mann Ramanjee Prasad,ME,Mahatma Gandhi House
+21CC201,Patel Kashyap Dhananjaybhai,CAD/CAM,Mahatma Gandhi House
+21RE201,Khanapara Raj Prabhudas,RE,Mahatma Gandhi House
+21RE205,KHOKHAR JAYESHKUMAR PRAVINBHAI,RE,Mahatma Gandhi House
+21RE206,Rohit Riteshkumar Manubhai,RE,Mahatma Gandhi House
+22AI30,Chheta Meetkumar Jiteshbhai,AI,Shubhash Chandra Bose House
+22AI36,Patel Hir Chiragkumar,AI,Shubhash Chandra Bose House
+22AI13,Parmar Janviben Hemantkumar,AI,Shubhash Chandra Bose House
+22AI26,Padiyar Adityasinh Ganpatsinh,AI,Shubhash Chandra Bose House
+22AI19,Patel Trupalkumar Rakeshkumar,AI,Shubhash Chandra Bose House
+22AI34,Sharma Nikhilkumar Ashishkumar,AI,Shubhash Chandra Bose House
+22AI24,Gandhi Rushi Mineshkumar,AI,Shubhash Chandra Bose House
+22AI39,Yash Barmecha,AI,Shubhash Chandra Bose House
+22AI47,Soni Abhishek Ashok,AI,Shubhash Chandra Bose House
+22AI63,Patel Soham Alpeshkumar,AI,Shubhash Chandra Bose House
+22AI73,Mohammed Sahil Malek,AI,Shubhash Chandra Bose House
+22AI72,Limbachiya Heer Yogeshkumar,AI,Shubhash Chandra Bose House
+22AI03,Patel Vandan Thakorbhai,AI,Shubhash Chandra Bose House
+22AI28,Utsav Upadhyay,AI,Shubhash Chandra Bose House
+22AI56,Vhora Mohammadbilal Abdulsalam,AI,Shubhash Chandra Bose House
+22AI59,Parikh Pratham Manojkumar,AI,Shubhash Chandra Bose House
+22AI71,Dev Bhagyesh Gandhi,AI,Shubhash Chandra Bose House
+22CE13,Bodana Mokshrajsinh Vikramsinh,COMP,Shubhash Chandra Bose House
+22CE34,Prajapati Krupali Kanjibhai,COMP,Shubhash Chandra Bose House
+22CE41,Vataliya Priyal Bharatbhai,COMP,Shubhash Chandra Bose House
+22CE78,Patel Dhruvil Rajesh,COMP,Shubhash Chandra Bose House
+22CE82,Patel Jatinkumar Kamleshbhai,COMP,Shubhash Chandra Bose House
+22CE88,Jhalodwala Husain,COMP,Shubhash Chandra Bose House
+22CE93,Jadhav Kartik Rajendrabhai,COMP,Shubhash Chandra Bose House
+22CE107,Vansh Rajeshkumar Patel,COMP,Shubhash Chandra Bose House
+22CE98,Solanki Meetkumar Vijaykumar,COMP,Shubhash Chandra Bose House
+22CE102,Hirpara Tulsiben Ritenbhai,COMP,Shubhash Chandra Bose House
+22CE110,Patel Om Dilipkumar,COMP,Shubhash Chandra Bose House
+22CE20,Tai Sahal Museji,COMP,Shubhash Chandra Bose House
+22CE36,Dholakiya Rishi Kamleshbhai,COMP,Shubhash Chandra Bose House
+22CE76,Shah Shashwat Nilesh,COMP,Shubhash Chandra Bose House
+22CE10,Patel Mayoor Pareshbhai,COMP,Shubhash Chandra Bose House
+22CE40,Simran Kumari,COMP,Shubhash Chandra Bose House
+22CE53,Varmora Neel Nandlalbhai,COMP,Shubhash Chandra Bose House
+22CE58,Tejani Parth Baldevbhai,COMP,Shubhash Chandra Bose House
+22CE63,Parmar Vedant Shaileshkumar,COMP,Shubhash Chandra Bose House
+22CE65,Gohel Krish Nikunjkumar,COMP,Shubhash Chandra Bose House
+22CE73,Jingar Harsh Dipakbhai,COMP,Shubhash Chandra Bose House
+22CSD54,Patel Preet Pritesh,CSD,Shubhash Chandra Bose House
+22CSD19,Kapadia Aksh Chirag,CSD,Shubhash Chandra Bose House
+22CSD52,Rizal Prasad,CSD,Shubhash Chandra Bose House
+22CSD47,Patel Yash Vishnukumar,CSD,Shubhash Chandra Bose House
+22CSD30,Sondagar Rudra Ashokkumar,CSD,Shubhash Chandra Bose House
+22CSD51,Patel Ravi Suryakant,CSD,Shubhash Chandra Bose House
+22CSD71,Devam Shah,CSD,Shubhash Chandra Bose House
+22CSD05,Tirth Patel,CSD,Shubhash Chandra Bose House
+22CSD39,Patel Krishkumar Dileshbhai,CSD,Shubhash Chandra Bose House
+22CSD15,Parmar Dhruvinkumar Bharatbai,CSD,Shubhash Chandra Bose House
+22CSD06,Karena Parth Vipulbhai,CSD,Shubhash Chandra Bose House
+22CSD43,Chaudhary Nikulbhai Ishvarbhai,CSD,Shubhash Chandra Bose House
+22CSD61,Savaj Dvarkesh Anilbhai,CSD,Shubhash Chandra Bose House
+22DT01,Christian Frenil Anandbhai,DT,Shubhash Chandra Bose House
+22DT04,Kapatel Rushi Prashantkumar,DT,Shubhash Chandra Bose House
+22EC02,Jhabuawala Kutubkhan Maohamaadi,EC,Shubhash Chandra Bose House
+22FT23,Ahir Keinkumar Kalpeshbhai,FPT,Shubhash Chandra Bose House
+22FT06,Rathva Truptiben,FPT,Shubhash Chandra Bose House
+22FT29,Sutwane Vaibhavi Deepak,FPT,Shubhash Chandra Bose House
+22FT17,Sevak Om Rajanikumar,FPT,Shubhash Chandra Bose House
+22FT42,Trunkwala Ibrahim Asgari,FPT,Shubhash Chandra Bose House
+22FT09,Patel Akshatkumar Maheshbhai,FPT,Shubhash Chandra Bose House
+22FT28,Khandalikar Atharva Shyam,FPT,Shubhash Chandra Bose House
+22FT27,Maitri Sandeep Shah,FPT,Shubhash Chandra Bose House
+22FT40,Umang Rameshchandra Shah,FPT,Shubhash Chandra Bose House
+22FT49,Patel Ishani Paresh,FPT,Shubhash Chandra Bose House
+22FT02,Soni Kamya Sohankumar,FPT,Shubhash Chandra Bose House
+22FT41,Vasita Aryan Chiragkumar,FPT,Shubhash Chandra Bose House
+22IT052,Patel Het Bharatbhai,IT,Shubhash Chandra Bose House
+22IT086,Mehta Bhavya Jignesh,IT,Shubhash Chandra Bose House
+22IT109,Kanani Jeetkumar Jaysukhbhai,IT,Shubhash Chandra Bose House
+22IT040,Patel Kreyaben Sandipbhai,IT,Shubhash Chandra Bose House
+22IT076,Vaibhaviben Patel,IT,Shubhash Chandra Bose House
+22IT103,Aysar Bisanal,IT,Shubhash Chandra Bose House
+22IT108,Hariyani Pinak Hasubhai,IT,Shubhash Chandra Bose House
+22IT061,Patel Harikrushna Nimeshkumar,IT,Shubhash Chandra Bose House
+22IT114,Hirpara Prasu Ashokbhai,IT,Shubhash Chandra Bose House
+22IT138,Charola Vansh Dhansukhbhai,IT,Shubhash Chandra Bose House
+22IT163,Thadeshwar Rivang Vipulbhai,IT,Shubhash Chandra Bose House
+22IT180,Suvagiya Hasti Rajeshkumar,IT,Shubhash Chandra Bose House
+22IT190,Patel Meet Rameshbhai,IT,Shubhash Chandra Bose House
+22IT192,Shah Megh Bhavinkumar,IT,Shubhash Chandra Bose House
+22IT195,Vara Devansh Chetan,IT,Shubhash Chandra Bose House
+22IT197,Goyani Zeel Bipinbhai,IT,Shubhash Chandra Bose House
+22IT203,Savan Ughreja,IT,Shubhash Chandra Bose House
+22IT208,Savani Kavy Pankajbhai,IT,Shubhash Chandra Bose House
+22IT210,Bhut Vishvaben Manishbhai,IT,Shubhash Chandra Bose House
+22IT214,Preksha Jain,IT,Shubhash Chandra Bose House
+22IT218,Jayesh Nakum,IT,Shubhash Chandra Bose House
+22IT225,Prarthna Alok Tiwari,IT,Shubhash Chandra Bose House
+22IT005,Vakharwala Dhruv Amarkumar,IT,Shubhash Chandra Bose House
+22IT146,Vraj Jitendrakumar Patel,IT,Shubhash Chandra Bose House
+22IT037,Patel Meetkumar Axaykumar ,IT,Shubhash Chandra Bose House
+22IT024,Hingladiya Devang Hemantbhai,IT,Shubhash Chandra Bose House
+22IT038,Dobariya Purvish Jaysukhbhai,IT,Shubhash Chandra Bose House
+22IT069,Savani Dhruv Rajeshbhai,IT,Shubhash Chandra Bose House
+22IT097,Aghara Hem Nareshbhai,IT,Shubhash Chandra Bose House
+22IT010,Sorathiya Akash Prakashbhai,IT,Shubhash Chandra Bose House
+22IT023,Barick Dhirajkumar Gyanaranjan,IT,Shubhash Chandra Bose House
+22IT123,Thakkar Vansh Rajivkumar,IT,Shubhash Chandra Bose House
+22IT128,Barot Kuldip Vasantbhai,IT,Shubhash Chandra Bose House
+22IT133,Chandegara Kush Tarun,IT,Shubhash Chandra Bose House
+22IT144,Vivek Koriya,IT,Shubhash Chandra Bose House
+22IT148,Malhar  Chavda,IT,Shubhash Chandra Bose House
+22IT154,Odhavani Riya Rajesh,IT,Shubhash Chandra Bose House
+22IT158,Patel Yashkumar Riteshbhai,IT,Shubhash Chandra Bose House
+22IT166,Bhesaniya Milan Jagadishbhai,IT,Shubhash Chandra Bose House
+22IT173,Patel Darshan Mukeshbhai,IT,Shubhash Chandra Bose House
+22ME03,Popat Neel Nageshkumar,ME,Shubhash Chandra Bose House
+22ME09,Anupkumar Sahoo,ME,Shubhash Chandra Bose House
+22AI502,Vasava Krutik Niranjanbhai,AI,Shubhash Chandra Bose House
+22FT502,Parmar Hardik Sureshbhai,FPT,Shubhash Chandra Bose House
+21AE003,Patel Dev Nimeshkumar,AE,Shubhash Chandra Bose House
+21AE011,Patel Zeel Shaileshbhai,AE,Shubhash Chandra Bose House
+21AE010,Malek Mohamad Aman MD Zuber,AE,Shubhash Chandra Bose House
+21AI037,Vaishnav Jaykumar Dilipbhai,AI,Shubhash Chandra Bose House
+21AI042,Savaliya Shrey Nileshbhai,AI,Shubhash Chandra Bose House
+21AI034,Chhatbar Birju Mahendrabhai,AI,Shubhash Chandra Bose House
+21AI005,Dave Dhruvkumar Piyushkumar,AI,Shubhash Chandra Bose House
+21AI043,Desai Aanand Arjanbhai,AI,Shubhash Chandra Bose House
+21AI049,Patel Dhruv Vasantkumar,AI,Shubhash Chandra Bose House
+21AI009,Pragati kulshreshtha,AI,Shubhash Chandra Bose House
+21AI004,Gandhi Fayeza Mahammadfarooq,AI,Shubhash Chandra Bose House
+21AI052,Bhadja prit kishorbhai,AI,Shubhash Chandra Bose House
+21AI044,Ananthan Nair,AI,Shubhash Chandra Bose House
+21AI038,Patel Dhairya Hemendrakumar,AI,Shubhash Chandra Bose House
+21AI050,Patel Maan Jayesh,AI,Shubhash Chandra Bose House
+21AI006,Kakaiya Arpit Rajesh,AI,Shubhash Chandra Bose House
+21AI035,Ansh Dhairavbhai Shah,AI,Shubhash Chandra Bose House
+21AI045,Raval Zinalben Hareshbhai,AI,Shubhash Chandra Bose House
+21AI061,Girgilani Rashmi Tarachand,AI,Shubhash Chandra Bose House
+21AI076,Rohan Dubey,AI,Shubhash Chandra Bose House
+21AI021,Patel Anuj Alpeshkumar,AI,Shubhash Chandra Bose House
+21CE001,Parmar Jayankumar Maheshbhai,CE,Shubhash Chandra Bose House
+21CE003,Kapadi Parth Jignesh,CE,Shubhash Chandra Bose House
+21CP031,Adodariya Vikas Anilbhai,CP,Shubhash Chandra Bose House
+21CP046,Ukani Ruchit Pankajbhai,CP,Shubhash Chandra Bose House
+21CP036,Shreya Dhavalkumar Shah,CP,Shubhash Chandra Bose House
+21CP074,Shravani Nirantar,CP,Shubhash Chandra Bose House
+21CP028,Kapadia Malav Pragneshkumar,CP,Shubhash Chandra Bose House
+21CP049,Tandel Tej Shankarbhai,CP,Shubhash Chandra Bose House
+21CP009,Darji Neel Mukeshbhai,CP,Shubhash Chandra Bose House
+21CP043,Bharmal Hatim Mohammadbhai,CP,Shubhash Chandra Bose House
+21CP055,Joshi Dhruv Jaydeep,CP,Shubhash Chandra Bose House
+21CP033,Vekariya Karan Kishorbhai,CP,Shubhash Chandra Bose House
+21CP048,Merai Hirva Sandip,CP,Shubhash Chandra Bose House
+21CP018,Vadher Mohitkumar Maheshkumar,CP,Shubhash Chandra Bose House
+21CP015,Patel Priyanshikumari Arvindbhai,CP,Shubhash Chandra Bose House
+21CP065,Patel Jay Hiteshbhai,CP,Shubhash Chandra Bose House
+21CP041,Rathod Dhruv Bipinbhai,CP,Shubhash Chandra Bose House
+21CP022,Rathod Sudhaben Khimjibhai,CP,Shubhash Chandra Bose House
+21CP064,Patel Anshul Anilbhai,CP,Shubhash Chandra Bose House
+21CP037,Denil Ramesh,CP,Shubhash Chandra Bose House
+21CP072,Patel Pranavkumar Ashvinbhai,CP,Shubhash Chandra Bose House
+21CP051,Kavad Ashish Gunubhai,CP,Shubhash Chandra Bose House
+21CSD042,Radadiya Dev Bhaveshbhai,CSD,Shubhash Chandra Bose House
+21CSD044,Diti Oza,CSD,Shubhash Chandra Bose House
+21CSD004,Aum Jitendra Khorava,CSD,Shubhash Chandra Bose House
+21CSD001,Smit Parmar,CSD,Shubhash Chandra Bose House
+21CSD035,Parejiya Pritiben Prakashkumar,CSD,Shubhash Chandra Bose House
+21CSD010,Tandel Divyaben Sumukhbhai,CSD,Shubhash Chandra Bose House
+21CSD024,Kalavadiya Jenil Hansrajbhai,CSD,Shubhash Chandra Bose House
+21CSD007,Patoiya Avin Shaileshbhai,CSD,Shubhash Chandra Bose House
+21CSD055,Patel Darshan Nimeshkumar,CSD,Shubhash Chandra Bose House
+21CSD034,Modi Drashti Kamlesh,CSD,Shubhash Chandra Bose House
+21CSD025,Ka.Patel Milin Hemantkumar,CSD,Shubhash Chandra Bose House
+21CSD047,Thakor Keval Kamleshbhai,CSD,Shubhash Chandra Bose House
+21CSD032,Meet Moradiya,CSD,Shubhash Chandra Bose House
+21CSD046,Sodha Jankiben Pravinsinh,CSD,Shubhash Chandra Bose House
+21CSD065,Prajapati Vivekbhai Mahendrabhai,CSD,Shubhash Chandra Bose House
+21CSD043,Savsani Drashti Shantilal,CSD,Shubhash Chandra Bose House
+21CSD078,Vaidya Vaidik Shreyasbhai,CSD,Shubhash Chandra Bose House
+21EC007,Shah Jainam Rakesh,EC,Shubhash Chandra Bose House
+21EC004,Acharya Vedanti Trilokkumar,EC,Shubhash Chandra Bose House
+21EE007,Dalwadi Darshan Manojkumar,EE,Shubhash Chandra Bose House
+21EE001,Parmar Priyanshu Ravindra,EE,Shubhash Chandra Bose House
+21FT017,Patel Shubham Vimalkumar,FPT,Shubhash Chandra Bose House
+21FT037,Patel Fenil Dashrathbhai,FPT,Shubhash Chandra Bose House
+21FT048,Patil Saumitra Rushikesh,FPT,Shubhash Chandra Bose House
+21FT057,Murshana Gogoi,FPT,Shubhash Chandra Bose House
+21FT045,Sharma Dixit Rakeshkumar,FPT,Shubhash Chandra Bose House
+21FT053,Aljiwala M Shahir M Shoeb,FPT,Shubhash Chandra Bose House
+21FT060,Dindor Priyanshukumar Kanubhai,FPT,Shubhash Chandra Bose House
+21FT061,Parmar Vrajkumar Maheshbhai,FPT,Shubhash Chandra Bose House
+21FT066,Chauhan Darshilkumar Babubhai,FPT,Shubhash Chandra Bose House
+21FT063,Khunti Anirudh Chhotubhai,FPT,Shubhash Chandra Bose House
+21FT065,Bhatt Purva Nimeshkumar,FPT,Shubhash Chandra Bose House
+21FT064,Patel Hemangkumar Manishbhai,FPT,Shubhash Chandra Bose House
+2FT067,NAZIRA MAJNU BHAI MULTANI,FPT,Shubhash Chandra Bose House
+21FT068,PARMAR BHARGAVIBEN AMBALAL,FPT,Shubhash Chandra Bose House
+21FT032,PUNJABI HETA RAJESH,FPT,Shubhash Chandra Bose House
+21FT004,Vyas Nandan Tarunkumar,FPT,Shubhash Chandra Bose House
+21IT129,Meet Vadodariya,IT,Shubhash Chandra Bose House
+21IT094,Pachchigar Shubham Jigneshbhai,IT,Shubhash Chandra Bose House
+21IT062,Charkhawala Dhruv Dharmeshbhai,IT,Shubhash Chandra Bose House
+21IT141,Joshi Karan Jayesh,IT,Shubhash Chandra Bose House
+21IT115,Mangroliya Aditi Jagdish,IT,Shubhash Chandra Bose House
+21IT087,Balas Krunalkumar Harilal,IT,Shubhash Chandra Bose House
+21IT041,Vairu Parag Rasikbhai,IT,Shubhash Chandra Bose House
+21IT021,Patel Shashwat Kamleshkumar,IT,Shubhash Chandra Bose House
+21IT003,Khilani Rahulkumar Laxmanbhai,IT,Shubhash Chandra Bose House
+21IT079,Patel Priyanshu Bipinchandra,IT,Shubhash Chandra Bose House
+21IT072,Rabadiya Dhruv Mathurbhai,IT,Shubhash Chandra Bose House
+21IT091,Dudhagara Drashti Rasikbhai,IT,Shubhash Chandra Bose House
+21IT106,Saliya Krish Ketanbhai,IT,Shubhash Chandra Bose House
+21IT030,Tripathi Tirth Bhaveshkumar,IT,Shubhash Chandra Bose House
+21IT060,Jani Yagnikbhai Niteshbhai,IT,Shubhash Chandra Bose House
+21IT019,Ghogha Tamanna Gulmamad,IT,Shubhash Chandra Bose House
+21IT025,Jasani Darshankumar Ghanshyambhai,IT,Shubhash Chandra Bose House
+21IT066,Modi Paras Rajendrakumar,IT,Shubhash Chandra Bose House
+21IT135,Gadhiya Miraj Dilipbhai,IT,Shubhash Chandra Bose House
+21IT085,Sanghvi Himanshu Vijaybhai,IT,Shubhash Chandra Bose House
+21IT092,Suthar Parth Rakeshbhai,IT,Shubhash Chandra Bose House
+21IT143,Prajapati Bhavesh Devajibhai,IT,Shubhash Chandra Bose House
+21IT083,Rathod Krushnakumar Rashikbhai,IT,Shubhash Chandra Bose House
+21IT070,Vaniya Krunal Bharatbhai,IT,Shubhash Chandra Bose House
+21IT089,Rohan Adatia,IT,Shubhash Chandra Bose House
+21IT056,Prajapati Tejalben Rameshbhai,IT,Shubhash Chandra Bose House
+21IT147,Dhvanil Patel,IT,Shubhash Chandra Bose House
+21IT080,Limdiwala Om Priteshkumar,IT,Shubhash Chandra Bose House
+21IT144,Prajapati Kishanbhai Bhurabhai,IT,Shubhash Chandra Bose House
+21IT101,Harsh Dadiya,IT,Shubhash Chandra Bose House
+21IT009,Patel Vatsal Sureshbhai,IT,Shubhash Chandra Bose House
+21IT026,Sodhaparmar Adityasinh Narendrasinh,IT,Shubhash Chandra Bose House
+21IT074,Sonagara Harshit Hitesh,IT,Shubhash Chandra Bose House
+21IT076,Gambhava Omkumar Karshanbhai,IT,Shubhash Chandra Bose House
+21IT118,Sorathiya Tirth Maheshbhai,IT,Shubhash Chandra Bose House
+21IT037,Virda Hemali Arvindbhai,IT,Shubhash Chandra Bose House
+21IT139,Mahar Dhrumi Harshkumar,IT,Shubhash Chandra Bose House
+21IT148,JATINDER KUMAR,IT,Shubhash Chandra Bose House
+21ME010,Saiyed Mohammad Hasanaian Musarratmiya,ME,Shubhash Chandra Bose House
+21ME007,Manan Patel,ME,Shubhash Chandra Bose House
+21ME013,Patel Keyan Dineshbhai,ME,Shubhash Chandra Bose House
+21RE207,MAKWANA NIKUNJKUMAR JITENDRAKUMAR,RE,Shubhash Chandra Bose House
+190010116T47,JITUS VARGHESE,IT,Mahatma Gandhi House
+190010116T10,VRUSHTI PANCHOLI,IT,Mahatma Gandhi House
+180010114046,DISHA PUROHIT,FPT,Mahatma Gandhi House
+170010114017,DISHA KULKARNI,FPT,Mahatma Gandhi House
+190010102T02,OMKARSINH RAOL,AE,Shubhash Chandra Bose House
+190010116T81,UDIT KANTI JENA,IT,Shubhash Chandra Bose House
+190010114T41,PARVA SHAH,FPT,Sardar Patel House
+190010107I01,    GNESSOA TERE VANDEIX,CP,Sardar Patel House
+190010119T18,SHIVAM NAIR,MECH,Bhagat Singh House
